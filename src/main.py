@@ -4,7 +4,7 @@
 #   Save:
 #   - Projects files
 #   - game saves
-#   - some user stuf
+#   - some user stuff
 
 #   Install:
 #   - some users apps
